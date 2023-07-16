@@ -1,0 +1,2 @@
+soo my gpu is kinda mid , hence the lower accuracy and precision val , but you can train it 
+using your muscular gpu !
