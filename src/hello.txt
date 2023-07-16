@@ -1,0 +1,5 @@
+welcome 
+make sure to augment the data at hand first .
+train the model by running train.ipynb
+test the model by running test.ipynb
+your good to go and the code's pretty easy to understand as well
