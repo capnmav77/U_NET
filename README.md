@@ -1,9 +1,22 @@
-# U_NET
-a friendly U-Net model for image segmentation using pytorch
-feel free to modify the code do give it a star!
+# U-Net Repository
+This repository contains the implementation of the U-Net architecture, a popular convolutional neural network (CNN) used for semantic segmentation tasks in deep learning. The U-Net was introduced by Olaf Ronneberger et al. in their paper "U-Net: Convolutional Networks for Biomedical Image Segmentation" and has since been widely adopted due to its effectiveness in handling images with complex structures.
 
+Table of Contents
+Installation
+Usage
+Contributing
+License
+Installation
+To install the dependencies required to run the U-Net model, clone this repository and navigate to the project directory. Then, execute the following command:
 
+pip install -r requirements.txt
 
-<img src="https://github.com/capnmav77/U_NET/assets/114616616/7260cd1e-304d-4f46-80f7-730bbbc20dfa" alt="image" width="40">
+Make sure you have Python installed on your system, along with pip, which is the package installer for Python.
 
-its a segmented image!!
+Usage
+After installation, you can train the U-Net model using your dataset. To do so, prepare your data in the required format and update the configuration files accordingly. Then, run the training script with the appropriate parameters. Here's a basic example of how to start the training process:
+
+navigate to : src/train.ipynb and run the script 
+
+Contributing
+Contributions to this repository are welcome! If you find bugs or have suggestions for improvements, please feel free to submit an issue or a pull request. Before contributing, please read our contribution guidelines.
