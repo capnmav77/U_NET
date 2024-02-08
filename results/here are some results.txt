@@ -1,2 +1,1 @@
-soo my gpu is kinda mid , hence the lower accuracy and precision val , but you can train it 
-using your muscular gpu !
+due to lack of dataset and the fear of overfitting , i didn't train it efficiently , please do feel free to work on it.
