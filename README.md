@@ -13,7 +13,7 @@ This repository contains the implementation of the U-Net architecture, a popular
 
 To install the dependencies required to run the U-Net model, clone this repository and navigate to the project directory. Then, execute the following command:
 
-''' bash pip install -r requirements.txt
+''' {bash pip install -r requirements.txt}
 '''
 
 Make sure you have Python installed on your system, along with pip, which is the package installer for Python.
