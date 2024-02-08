@@ -3,7 +3,8 @@
 This repository contains the implementation of the U-Net architecture, a popular convolutional neural network (CNN) used for semantic segmentation tasks in deep learning. The U-Net was introduced by Olaf Ronneberger et al. in their paper "U-Net: Convolutional Networks for Biomedical Image Segmentation" and has since been widely adopted due to its effectiveness in handling images with complex structures.
 
 ## Outputs:
-![](results/01_test_0.png)
+![segmented image 01](results/01_test_0.png)
+![segmented image 02](results/02_test_0.png)
 
 ## Table of Contents
 
