@@ -11,7 +11,6 @@ This repository contains the implementation of the U-Net architecture, a popular
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
